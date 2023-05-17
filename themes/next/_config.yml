@@ -40,10 +40,10 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/logo.jpg
-  medium: /images/logo.jpg
-  apple_touch_icon: /images/logo.jpg
-  safari_pinned_tab: /images/logo.jpg
+  small: /images/logo.ico
+  medium: /images/logo.ico
+  apple_touch_icon: /images/logo.png
+  safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
