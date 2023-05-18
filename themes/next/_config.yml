@@ -362,8 +362,7 @@ mobile_layout_economy: false
 android_chrome_color: "#222"
 
 # Custom Logo (Do not support scheme Mist)
-custom_logo: /images/logo02.png #/uploads/custom-logo.jpg
-
+custom_logo: /images/logo04.png #/uploads/custom-logo.jpg4
 codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
