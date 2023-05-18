@@ -3,6 +3,11 @@ title: 关于这个网站~
 date: 2023-05-12 13:34:46
 ---
 
+
+
+**website by QR & HY**
+
+
 这里是汕头市金园实验中学2415届班级的班级网站
 我们班的活动很丰富哦~比如我们的班主任
 站长邮箱:[admin@dyzy.ml](mailto:admin@dyzy.ml)
