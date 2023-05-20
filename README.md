@@ -7,7 +7,7 @@
 
 ## 站点截图
 深色：![image](https://github.com/66622a/js2415-last/assets/71886213/334d8998-58f6-4368-9309-903da1a2eb9d)
-浅色：![image](https://github.com/66622a/js2415-last/blob/main/1684506777681.jpg)
+浅色：![图片](https://github.com/66622a/js2415-last/assets/71886213/7aecb29f-00b5-477c-8613-218342654f93)
 
 
 ## 题外话
