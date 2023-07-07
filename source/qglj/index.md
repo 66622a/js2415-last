@@ -1,5 +1,5 @@
 ---
-title: 奇怪的链接
+title: 友情链接
 date: 2023-05-14 06:28:00
 
 ---
@@ -9,3 +9,4 @@ date: 2023-05-14 06:28:00
 [班主任的抖音](https://www.douyin.com/user/MS4wLjABAAAAmR3PMfsxu_N8vnOG8uNcRV4hIdQEDlkIuktBt0nEXDw)
 [班主任的小红书](https://www.xiaohongshu.com/user/profile/5e66ff6c0000000001009507)
 [班主任的微博](https://weibo.com/u/1847143887)
+[本站概况](https://github.com/66622a/js2415-last)
