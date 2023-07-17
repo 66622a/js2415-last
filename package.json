@@ -27,7 +27,7 @@
     "npm-upgrade": "^3.1.0"
   },
   "devDependencies": {
-    "hexo": "^7.0.0-rc1",
+    "hexo": "^7.0.0-rc2",
     "hexo-cli": "^4.3.1"
   }
 }
