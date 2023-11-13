@@ -21,7 +21,7 @@
     "hexo-renderer-marked": "^6.1.1",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
-    "hexo-tag-embed": "^1.0.0-rc.1",
+    "hexo-tag-embed": "^1.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "npm-check": "^6.0.1",
     "npm-upgrade": "^3.1.0"
