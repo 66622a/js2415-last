@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "hexo": "^7.1.1",
-    "hexo-cli": "^4.3.1"
+    "hexo-cli": "^4.3.2"
   }
 }
